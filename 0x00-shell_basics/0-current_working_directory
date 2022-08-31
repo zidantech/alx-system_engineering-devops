@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "this is my project"
-echo "i understand git and shell navigation very well"
-echo "thank you ALX"
+echo "this is my project.I understand git and shell navigation very well.Thank you ALX"
