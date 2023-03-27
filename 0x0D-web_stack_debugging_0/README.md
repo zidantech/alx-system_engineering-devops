@@ -1,7 +1,7 @@
 ```diff
 
 - Up and running code.
-- Author: Mahafi Abuhuraira
+- Author: Zidan Musa
 
 ```
 ## Tasks

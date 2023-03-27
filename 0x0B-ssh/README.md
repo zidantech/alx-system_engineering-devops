@@ -2,7 +2,7 @@
 
 ! SSH RSA Second Pair Part {0x0B}
 
-@ Author: Mahadi Abuhuraira
+@ Author: Zidan Musa
 
 ```
 ## Tasks
@@ -11,3 +11,4 @@
 * [1-create_ssh_key_pair](1-create_ssh_key_pair)
 * [2-ssh_config](2-ssh_config)
 * [README.md](README.md)
+s
