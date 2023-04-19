@@ -1,7 +1,7 @@
 # 0x10-https_ssl
 
 ### Author
-Mahadi Abuhuraira<mamt4real@gmail.com>
+Zidan Musa
 
 ## Description
 Tasks to teach us how to set up ssl on a server
