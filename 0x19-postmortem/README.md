@@ -89,7 +89,31 @@ Please, remember that these blogs must be written in English to further your tec
 
 Save
 
-1.  <https://docs.google.com/document/d/1iMtozGB1bgtHz28giU6GUJPheAMZem6nPVUjt3WioNM/edit?usp=sharing> Remove
+1.  <https://docs.google.com/document/d/1cc0O4o23eA4JnANrhi_cxkJIuysUhEKhO4Bc9Oaoua8/edit?usp=sharing> Remove
+
+**Repo:**
+
+-   GitHub repository: `alx-system_engineering-devops`
+-   Directory: `0x19-postmortem`
+-   File: `README.md`
+
+ Done! Help
+
+### 1\. Make people want to read your postmortem
+
+#advanced
+
+We are constantly stormed by a quantity of information, it's tough to get people to read you.
+
+Make your post-mortem attractive by adding humour, a pretty diagram or anything that would catch your audience attention.
+
+Please, remember that these blogs must be written in English to further your technical ability in a variety of settings.
+
+#### Add URLs here:
+
+Save
+
+1.  <https://docs.google.com/document/d/1cc0O4o23eA4JnANrhi_cxkJIuysUhEKhO4Bc9Oaoua8/edit?usp=sharing> Remove
 
 **Repo:**
 
